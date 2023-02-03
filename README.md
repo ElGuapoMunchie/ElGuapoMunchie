@@ -1,5 +1,9 @@
 ### Hi there 👋
+Welcome to my Pages site!
 
+# Build Settings
+markdown: Kramdown
+theme: minima
 <!--
 **ElGuapoMunchie/ElGuapoMunchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
