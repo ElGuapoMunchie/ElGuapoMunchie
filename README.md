@@ -9,11 +9,3 @@ That's right-
 ## They're actually government drones
 
 And they were made to spy on you.
-
-Here's a tree:
-
-#####      / \
-#####     /   \
-#####    /     \
-#####    -------
-#####       H
