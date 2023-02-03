@@ -1,20 +1,19 @@
+##### THE WEBSITE:
+
+
 ### Hi there 👋
 Welcome to my Pages site!
 
-# Build Settings
-markdown: Kramdown
-theme: minima
-<!--
-**ElGuapoMunchie/ElGuapoMunchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Do you ever think about how birds don't exist?
+That's right-
+## They're actually government drones
 
-Here are some ideas to get you started:
+And they were made to spy on you.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here's a tree:
+
+#####      / \
+#####     /   \
+#####    /     \
+#####    -------
+#####       H
